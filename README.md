@@ -1,4 +1,4 @@
-# Exercism Journey 🚀
+# Exercism Journey
 
 A clean, structured repository to track my journey of learning **multiple programming languages** using **Exercism** — all solved locally, version‑controlled, and documented with intent.
 
@@ -6,7 +6,7 @@ This repo is not about speed. It’s about **depth, consistency, and mastery**.
 
 ---
 
-## 📌 Why this repository exists
+## Why this repository exists
 
 Exercism encourages deliberate practice. Solving exercises locally allows:
 
@@ -22,7 +22,7 @@ This repository acts as:
 
 ---
 
-## 🧠 Learning Philosophy
+## Learning Philosophy
 
 For every language:
 
@@ -35,7 +35,7 @@ Mistakes are kept. Improvements are committed. Growth is visible.
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 exercism-multi-lang/
@@ -59,17 +59,17 @@ Each language directory mirrors the Exercism track structure.
 
 ---
 
-## 🛠️ Workflow
+## Workflow
 
 1. Download exercise via Exercism CLI
 2. Solve locally using my editor
-3. Run tests until green ✅
+3. Run tests until green
 4. Refactor for clarity & idioms
 5. Commit with meaningful messages
 
 ---
 
-## 📈 Progress Tracking
+## Progress Tracking
 
 - Each folder reflects **completed exercises**
 - Commit history shows **learning evolution**
@@ -77,7 +77,7 @@ Each language directory mirrors the Exercism track structure.
 
 ---
 
-## 🤝 Notes
+## Notes
 
 This repo is personal, but public — meant to inspire consistency and deep learning rather than copy‑paste solutions.
 
@@ -85,4 +85,4 @@ If you’re learning through Exercism too: respect the process.
 
 ---
 
-**Practice deliberately. Learn deeply. Repeat.** 💡
+**Practice deliberately. Learn deeply. Repeat.**
